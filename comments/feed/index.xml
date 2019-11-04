@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commenti per Bamboogie.	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Use less plastic.</description>
 	<lastBuildDate>Sun, 03 Nov 2019 20:47:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,10 +20,10 @@
 			<item>
 				<title>
 				Commenti su Ciao mondo! di Un commentatore di WordPress				</title>
-				<link>/2019/11/03/ciao-mondo/#comment-1</link>
+				<link>./../../2019/11/03/ciao-mondo/index.html#comment-1</link>
 		<dc:creator><![CDATA[Un commentatore di WordPress]]></dc:creator>
 		<pubDate>Sun, 03 Nov 2019 20:47:41 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
 					<description><![CDATA[Ciao, questo è un commento.
 Per iniziare a moderare, modificare ed eliminare commenti, visita la schermata commenti nella bacheca.
 Gli avatar di chi lascia un commento sono forniti da &lt;a href=&quot;https://it.gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>

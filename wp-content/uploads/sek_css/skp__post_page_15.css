@@ -5,8 +5,8 @@
 [data-sek-id="__nimble__a83b26caaf48"] {padding-top: 50px;padding-bottom: 40px;}
 [data-sek-id="__nimble__da75e465eb62"] {background-position: 50% 50%;background-image: url("http://bamboogie.org/wp-content/uploads/2019/11/Packaging1TB_WhiteBackground_2.png");background-size: contain;background-repeat: no-repeat;}
 [data-sek-id="__nimble__80ac83c8c2c7"] {padding-left: 15px;padding-bottom: 90px;padding-top: 90px;padding-right: 50px;}
-[data-sek-id="__nimble__106911b5db58"] .sek-module-inner > .sek-heading {text-align: left;font-family: "Montserrat";font-size: 25px;color: #000;font-weight: bold;}
-[data-sek-id="__nimble__da389ccb2f74"] .sek-module-inner > .sek-heading {text-align: left;font-family: "Montserrat";font-size: 25px;color: #000;font-weight: bold;}
+[data-sek-id="__nimble__b08db69630cb"] {padding-bottom: 0px;}
+[data-sek-id="__nimble__b08db69630cb"] .sek-module-inner, [data-sek-id="__nimble__b08db69630cb"] .sek-module-inner p, [data-sek-id="__nimble__b08db69630cb"] .sek-module-inner a, [data-sek-id="__nimble__b08db69630cb"] .sek-module-inner li {text-align: center;}
 body .sektion-wrapper [data-sek-id="__nimble__ec20318f2ca8"] > .sek-container-fluid > .sek-sektion-inner {max-width: 960px;margin: 0 auto;}
 body .sektion-wrapper [data-sek-id="__nimble__ec20318f2ca8"] > .sek-container-fluid {padding-left: inherit;padding-right: inherit;}
 [data-sek-id="__nimble__ec20318f2ca8"] {background-position: 50% 50%;background-image: url("http://bamboogie.org/wp-content/uploads/2019/11/EDIT-1165.jpg");background-repeat: no-repeat;background-attachment: fixed;position: relative;padding-top: 200px;padding-bottom: 200px;}
@@ -21,6 +21,8 @@ body .sektion-wrapper [data-sek-id="__nimble__ec20318f2ca8"] > .sek-container-fl
 [data-sek-id="__nimble__53982169a7d7"] .sek-icon i:hover {color: #fff;}
 [data-sek-id="__nimble__53982169a7d7"] .sek-icon-wrapper {border: 3px solid #fff;font-size: 40px;color: #fff;padding-top: 30px;padding-bottom: 30px;padding-right: 30px;padding-left: 30px;border-radius: 119px;}
 [data-sek-id="__nimble__2d509004c683"] .sek-module-inner > .sek-heading {font-family: "Lato";font-size: 27px;color: #fff;margin-top: 15px;margin-bottom: 15px;}
+[data-sek-id="__nimble__aea630f5b8c7"] {padding-bottom: 25px;}
+[data-sek-id="__nimble__aea630f5b8c7"] .sek-module-inner, [data-sek-id="__nimble__aea630f5b8c7"] .sek-module-inner p, [data-sek-id="__nimble__aea630f5b8c7"] .sek-module-inner a, [data-sek-id="__nimble__aea630f5b8c7"] .sek-module-inner li {text-align: center;}
 body .sektion-wrapper [data-sek-id="__nimble__2fcc1a721cdf"] > .sek-container-fluid > .sek-sektion-inner {max-width: 600px;margin: 0 auto;}
 body .sektion-wrapper [data-sek-id="__nimble__2fcc1a721cdf"] > .sek-container-fluid {padding-left: inherit;padding-right: inherit;}
 [data-sek-id="__nimble__2fcc1a721cdf"] {background-position: 50% 0%;background-image: url("http://bamboogie.org/wp-content/uploads/2019/11/IMG_7983.jpeg");background-repeat: no-repeat;background-attachment: fixed;padding-top: 200px;padding-bottom: 200px;}
@@ -47,5 +49,5 @@ body .sektion-wrapper [data-sek-id="__nimble__2fcc1a721cdf"] > .sek-container-fl
 	[data-sek-id="__nimble__2d509004c683"] .sek-module-inner > .sek-heading {font-size: 22px;}
 	[data-sek-id="__nimble__2fcc1a721cdf"] {background-position: 50% 50%;padding-top: 150px;padding-bottom: 150px;}
 	[data-sek-id="__nimble__74b40312d158"] {padding-left: 0px;padding-right: 0px;}}
-@media (min-width:575px) {[data-sek-id="__nimble__a83b26caaf48"] .sek-sektion-inner > .sek-column[data-sek-id="__nimble__da75e465eb62"] {-ms-flex: 0 0 46.692%;flex: 0 0 46.692%;max-width: 46.692%;}
-	[data-sek-id="__nimble__a83b26caaf48"] .sek-sektion-inner > .sek-column[data-sek-id="__nimble__80ac83c8c2c7"] {-ms-flex: 0 0 53.308%;flex: 0 0 53.308%;max-width: 53.308%;}}
+@media (min-width:575px) {[data-sek-id="__nimble__a83b26caaf48"] .sek-sektion-inner > .sek-column[data-sek-id="__nimble__da75e465eb62"] {-ms-flex: 0 0 40.268%;flex: 0 0 40.268%;max-width: 40.268%;}
+	[data-sek-id="__nimble__a83b26caaf48"] .sek-sektion-inner > .sek-column[data-sek-id="__nimble__80ac83c8c2c7"] {-ms-flex: 0 0 59.732%;flex: 0 0 59.732%;max-width: 59.732%;}}
